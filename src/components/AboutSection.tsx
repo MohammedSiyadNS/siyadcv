@@ -102,7 +102,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onContactClick }) =>
 
         {/* Animated Paragraph */}
         <AnimatedText
-          text="I am a passionate Information technology Engineering    student. currently im a BTech IT graduate from LBS college of engg kasaragod under KTU. I have a strong interest in software development, Python programming, ERP systems, databases, web development, and cloud technologies. Let's build something incredible together!"
+          text="I am a passionate Information technology Engineering    graduate. currently im a BTech IT graduate from LBS college of engg kasaragod under KTU. I have a strong interest in software development, Python programming, ERP systems, databases, web development, and cloud technologies. Let's build something incredible together!"
           className="text-[#D7E2EA] font-medium leading-relaxed max-w-[560px]"
           style={{ fontSize: 'clamp(1rem, 2vw, 1.35rem)' }}
         />
